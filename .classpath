@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/gjardim/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/gjardim/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/home/gjardim/Selenium/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="/home/gjardim/Programs/eclipse/opencsv-5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
