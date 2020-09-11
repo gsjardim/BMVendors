@@ -49,7 +49,7 @@ public class SeleniumScript {
 
 	public static void main(String[] args) {
 
-		System.setProperty("webdriver.gecko.driver", "/home/gjardim/Programs/Gecko_Driver/geckodriver");
+		System.setProperty("webdriver.gecko.driver", "/home/gjardim/Programs/Gecko_Driver/geckodriver"); //Gecko driver is the driver for Firefox browser
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.benjaminmoore.com/en-ca/store-locator");
 		getWebElements(driver);
